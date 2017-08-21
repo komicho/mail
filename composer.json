@@ -3,7 +3,7 @@
 	"type": "library",
 	"description": "Send email in a simple and beautiful way",
 	"keywords": ["php", "mail", "komicho"],
-	"homepage": "https://github.com/komicho/mail",
+	"homepage": "https://github.com/komichoLab/mail",
 	"authors": [
 		{
 			"name": "komicho",
